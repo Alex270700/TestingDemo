@@ -2,5 +2,6 @@ package app;
 
 public interface CalculatorService {
 	//Service
-	int multiply(int a, int b, int c);
+	int multiply(int a, int b, int d);
+	// bharat's here ;
 }
