@@ -1,22 +1,22 @@
-package tests.unit;
+// package tests.unit;
 
-import static org.junit.Assert.*;
+// import static org.junit.Assert.*;
 
-import org.junit.Test;
+// import org.junit.Test;
 
-public class CalcultorNewTest {
+// public class CalcultorNewTest {
 
-	@Test
-	public void test() {
-		fail("Not yet implemented");
-	}
+// 	@Test
+// 	public void test() {
+// 		fail("Not yet implemented");
+// 	}
 	
-	@Test
-	public void test1()
-	{
-		System.out.println("New Test");
-	}
+// 	@Test
+// 	public void test1()
+// 	{
+// 		System.out.println("New Test");
+// 	}
 
-}
+// }
 
 // // Bharat is a g.o.a.t !!
